@@ -1,1 +1,1 @@
-worker: bash install.sh && node index
+worker: npm i && npm start
