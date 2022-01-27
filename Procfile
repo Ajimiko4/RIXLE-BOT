@@ -1,1 +1,1 @@
-worker: node index
+worker: bash install.sh && node index
